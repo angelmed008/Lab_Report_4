@@ -6,10 +6,19 @@ To edit the `ListExamples.java` file in Vim, I pressed `vim<space>ListExamples.j
 
 ---
 Photos:
+
+
+
 ![Image](clone.jpg)
+
 ![Image](sshjpg.jpg)
+
 ![Image](Checked_Failure.jpg)
+
 ![Image](REST.jpg)
+
 ![Image](NOW_SUCEED.jpg)
+
 ![Image](COMMIT_AND_PUSHpt1.jpg)
+
 ![Image](COMMIT_AND_PUSH!!!.jpg)
